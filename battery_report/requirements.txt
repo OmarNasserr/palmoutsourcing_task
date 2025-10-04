@@ -1,0 +1,5 @@
+# Battery Report Module - Requirements
+# Python 3.10+ required
+
+# No external dependencies required for core functionality
+# The module uses only Python standard library
